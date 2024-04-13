@@ -1,11 +1,16 @@
 # grocy-docker
 
+> [!NOTE]
+> This project (grocy-docker, not [Grocy](https://github.com/grocy/grocy) itself) is currently unmaintained and looking for a new maintainer.
+>
+> If you're interested in taking that role, please familiarize yourself with the current release automation (issue [#109](https://github.com/grocy/grocy-docker/issues/109)), and contact @jayaddison and @berrnd to register your interest in issue thread [#127](https://github.com/grocy/grocy-docker/issues/127).
+
 ERP beyond your fridge - now containerized!
 
 This repository includes container build infrastructure for [grocy](https://github.com/grocy/grocy).
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/grocy/grocy.svg)](https://hub.docker.com/r/grocy/grocy/)
-[![Docker Stars](https://img.shields.io/docker/stars/grocy/grocy.svg)](https://hub.docker.com/r/grocy/grocy/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/grocy/backend.svg)](https://hub.docker.com/r/grocy/backend/)
+[![Docker Stars](https://img.shields.io/docker/stars/grocy/backend.svg)](https://hub.docker.com/r/grocy/backend/)
 
 ## Prerequisites
 
